@@ -1,0 +1,23 @@
+#brandname {
+	font-family: "Droid serif", 'Playfair Display', serif;
+	font-style: italic;
+}
+
+.portfolio-content {
+	text-align: left;
+}
+
+#heading {
+	font-size: 35pt;
+	margin-bottom: 100px;
+}
+
+#contact {
+	color: #c6c6c6;
+}
+
+.process{
+	font-weight: bold;
+	font-size: 16px;
+	text-transform: capitalize;
+}
